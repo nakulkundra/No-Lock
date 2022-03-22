@@ -1,0 +1,9 @@
+D:\Git\screensaver-disabler\ScreenSaverDisabler\bin\Debug\No Lock V2.exe.config
+D:\Git\screensaver-disabler\ScreenSaverDisabler\bin\Debug\No Lock V2.exe
+D:\Git\screensaver-disabler\ScreenSaverDisabler\bin\Debug\No Lock V2.pdb
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\Monon.FormMain.resources
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.Properties.Resources.resources
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.GenerateResource.cache
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\ScreenSaverDisabler.csproj.CoreCompileInputs.cache
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\No Lock V2.exe
+D:\Git\screensaver-disabler\ScreenSaverDisabler\obj\Debug\No Lock V2.pdb
